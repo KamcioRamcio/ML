@@ -1,8 +1,8 @@
 
 
-##This project was inspired by and heavily influenced by the book Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd Edition) by Aurélien Géron. A huge shoutout to Aurélien Géron for creating such an incredible resource for learning machine learning and deep learning in a practical and hands-on way.
+This project was inspired by and heavily influenced by the book Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd Edition) by Aurélien Géron. A huge shoutout to Aurélien Géron for creating such an incredible resource for learning machine learning and deep learning in a practical and hands-on way.
 
-###About This Project
+About This Project
 
 In this repository, I have compiled my learnings, exercises, and experiments based on the knowledge gained from the book. The book provided me with a strong foundation in:
 
@@ -16,11 +16,11 @@ Model evaluation and hyperparameter tuning
 
 Various practical applications of ML/DL
 
-###Purpose
+Purpose
 
 The main goal of this repository is to document my learning journey, practice implementing ML concepts, and solidify my understanding by working through exercises and projects inspired by Hands-On Machine Learning.
 
-###Acknowledgments
+Acknowledgments
 
 Aurélien Géron for writing one of the best practical ML/DL books available.
 
